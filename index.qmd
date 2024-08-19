@@ -1,10 +1,6 @@
 ---
 title: "Chris Chamberlin"
 toc: false
-about:
-  links: 
-    - text: GitHub
-      href: https://github.com/Chris-Chamberlin
 ---
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
