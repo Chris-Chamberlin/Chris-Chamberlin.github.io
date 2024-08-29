@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Chris Chamberlin"
+  page-footer: 
+    background: "#782F40"
+    left: "Test"
   navbar:
     right:
       - href: index.qmd
