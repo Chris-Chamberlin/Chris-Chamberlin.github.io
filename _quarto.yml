@@ -5,7 +5,7 @@ project:
 website:
   title: "Chris Chamberlin"
   page-footer: 
-    left: "Test"
+    left: "Tests"
   navbar:
     right:
       - href: index.qmd
